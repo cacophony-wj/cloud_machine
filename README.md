@@ -6,7 +6,7 @@
 
 ## Preamble
 
-_CLOUD MACHINE_ is a light, softcore NSFW overhaul of _Final Fantasy 7 Remake Intergrade_ for _Steam,_ featuring high poly, fully nude lady characters and a revamp of the difficulty for a more engaging experience. A clothed variant is available because -- c'mon, even I can accept tha it's a litte absurd.
+_CLOUD MACHINE_ is a light, softcore NSFW overhaul of _Final Fantasy 7 Remake Intergrade_ for _Steam,_ featuring high poly, fully nude lady characters and a revamp of the difficulty for a more engaging experience. A clothed variant is available because -- c'mon, even I can accept that it's a litte absurd.
 
 ### Requirements
 
