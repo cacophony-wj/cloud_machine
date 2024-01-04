@@ -1,6 +1,6 @@
-![Tifa](images/Tifa.png)
-
 # CLOUD MACHINE
+
+![Tifa](images/Tifa.png)
 
 ## "I'm selling these fine leather jackets."
 
