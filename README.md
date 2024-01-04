@@ -27,10 +27,6 @@ The _Microsoft Visual C++_ redistributable package is required for _Mod Organize
 
 To ensure that _Steam_ does not automatically update, open the Properties window of _Final Fantasy 7 Remake Intergrade_ in _Steam_, navigate to the Updates tab and change Automatic updates to _Only update this game when I launch it_.
 
-**Set the Game language to English**
-
-The modlist will not install unless it can verify that the base game is in English. If you change the language, you may need to Verify Local Files again.
-
 **Do Not Use Any Part of This List in a Protected Folder**
 
 This includes `Program Files,` `Program Files (x86)`, `Downloads`, `Documents`, the `Desktop` or any other folders that _Windows_ considers "Protected" (essential to the operating system). If the _Wabbajack_ folder, the _Skyrim Special Edition_ folder, the _Steam_ folder, the modlist folder or the downloads folder are in any of these directories, the modlist will not function properly. Relocate offending folders to a non-Protected location such as the root directory. (D:\ for example.)
