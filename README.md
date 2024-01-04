@@ -31,10 +31,6 @@ To ensure that _Steam_ does not automatically update, open the Properties window
 
 This includes `Program Files,` `Program Files (x86)`, `Downloads`, `Documents`, the `Desktop` or any other folders that _Windows_ considers "Protected" (essential to the operating system). If the _Wabbajack_ folder, the _Skyrim Special Edition_ folder, the _Steam_ folder, the modlist folder or the downloads folder are in any of these directories, the modlist will not function properly. Relocate offending folders to a non-Protected location such as the root directory. (D:\ for example.)
 
-**Do Not Use Any Protected Folders inside of OneDrive**
-
-You will experience unusual behavior if the `My Games` folder (usually in the `Documents` folder) is part of a _OneDrive_ Cloud Folder. Relocate it or disable _OneDrive._ 
-
 **Make Exceptions for Anti-Malware Programs**
 
 Exclude antivirus and anti-malware programs from monitoring three directories: those containing the _Wabbajack_ app, the _Final Fantasy 7 Remake Intergrade_ game folder, and the directory in which you wish to install the modlist. The list will not install or run properly otherwise. Particularly intrusive malware solutions such as _Bitdefender_ and _Webroot_ must be fully uninstalled due to technical limitations. Unfortunately, _Windows Defender_ is the only recommended antimalware solution one should use with _Wabbajack._
